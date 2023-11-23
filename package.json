@@ -1,0 +1,13 @@
+{
+  "name": "scss-grid-system",
+  "version": "1.0.0",
+  "description": "This repository presents an upgraded version of the CSS grid system, now implemented using SCSS (Sass). This upgraded version aims to enhance the functionalities and capabilities of the grid system, providing even more flexibility and efficiency in creating responsive layouts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass scss:assets/css -w",
+    "build": "sass scss:assets/css -s compressed"
+  },
+  "author": "",
+  "license": "ISC"
+}
